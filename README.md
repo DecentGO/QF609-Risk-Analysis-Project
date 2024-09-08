@@ -2,6 +2,7 @@
 # Value at Risk (VaR)
 
 Suppose that we have the following portfolio of positions as of 30/10/2023:
+
 (a) a payer (i.e. pay ffxed leg and receive ffoat leg) SOFR swap with the following contract
 parameters:
 
@@ -16,6 +17,7 @@ parameters:
 * FloatLeg Frequency: Annual
 
 * FixedLeg Frequency: Annual
+  
 (b) $1 million in each of the four stocks: AAPL, MSFT, F (Ford Motor) and BAC (Bank of
 America)
 An Excel workbook consisting of one-year of historical data (31/10/2022 - 30/10/2024) of
