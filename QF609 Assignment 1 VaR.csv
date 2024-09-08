@@ -1,0 +1,6 @@
+3.0e+04 samples,VaR at 5%
+Parametric,926596.2633475048
+Monte Carlo Full Revaluation,933041.4898789739
+Monte Carlo Risk-based,927682.8213762073
+Historical Full Revaluation,989946.8654037978
+Historical Risk-based,983865.0263458324
